@@ -5,7 +5,7 @@
     "creators": ["Koozoo2000"],
     "verifier": "Koozoo2000",
     "verification": "NOPE",
-    "percentToQualify": 70,
+    "percentToQualify": "Infinity",
     "password": "Undefined",
     "records": [
         {
