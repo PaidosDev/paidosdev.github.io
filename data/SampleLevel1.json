@@ -1,18 +1,15 @@
 {
-    "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": 56,
-    "password": "Not Copyable",
+    "id": 279,
+    "name": "GOLD PHASE",
+    "author": "Koozoo2000",
+    "creators": ["Koozoo2000"],
+    "verifier": "Koozoo2000",
+    "verification": "NOPE",
+    "percentToQualify": 70,
+    "password": "Undefined",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 360
+            
         }
     ]
 }
