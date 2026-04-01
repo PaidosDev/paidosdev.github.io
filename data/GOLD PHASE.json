@@ -6,11 +6,11 @@
     "verifier": "Koozoo2000",
     "verification": "https://youtu.be/s0kK-P2Zoo4",
     "percentToQualify": 50,
-    "password": "Undefined",
+    "password": "Free To Copy",
     "records": [
         {
             "user": "Tester",
-            "link": "NOPE",
+            "link": "https://youtu.be/s0kK-P2Zoo4",
             "percent": 100,
             "hz": 240
         }
