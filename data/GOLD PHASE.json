@@ -4,15 +4,8 @@
     "author": "Koozoo2000",
     "creators": ["Koozoo2000"],
     "verifier": "Koozoo2000",
-    "verification": "https://youtu.be/s0kK-P2Zoo4",
+    "verification": "#",
     "percentToQualify": 50,
     "password": "Free To Copy",
-    "records": [
-        {
-            "user": "Tester",
-            "link": "https://youtu.be/s0kK-P2Zoo4",
-            "percent": 100,
-            "hz": 240
-        }
-    ]
+    "records": []
 }
