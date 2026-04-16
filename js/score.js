@@ -12,7 +12,7 @@ const scale = 1;
  */
 export function score(rank, percent, minPercent) {
     // Cutoff at 10 levels as requested
-    if (rank > 10 || rank < 1) {
+    if (rank > 15 || rank < 1) {
         return 0;
     }
 
