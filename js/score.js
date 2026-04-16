@@ -11,13 +11,12 @@ const scale = 1;
  * @returns {Number}
  */
 export function score(rank, percent, minPercent) {
-    // Cutoff at 10 levels as requested
+    // Cutoff at x levels
     if (rank > 15 || rank < 1) {
         return 0;
     }
 
     // Exponential Formula: 15 * e^(-0.3009 * (rank - 1))
-    // result: Rank 1 = 15, Rank 10 = 1.0
     let baseScore = 15 * Math.exp(-0.3009 * (rank - 1));
 
     // Calculate progression based on percentage
